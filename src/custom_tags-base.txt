@@ -1,0 +1,9 @@
+VERSION         :1.1
+AUTHORS         :rddim
+LICENSE         :GPL v3
+TTF_URL         :https://www.tt-forums.net/viewtopic.php?f=67&t=67161#p1179640
+NUM_TOWNS       :256
+NUM_VLGS        :4302
+NUM_ALL         :4558
+SRC_VALID       :13.12.2016
+SRC_VALID_EN    :13th December, 2016
