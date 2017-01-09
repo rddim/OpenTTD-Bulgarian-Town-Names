@@ -1,9 +1,9 @@
 ##grflangid 0x18
 
-STR_GRF_NAME			:Български градове и села v1.0
-STR_GRF_DESCRIPTION		:{BLACK}Описание: {ORANGE}Български градове и села{SILVER}{}Съдържа имената на {WHITE}всички {SILVER}градове и села в България на кирилица и латиница.{}{BLACK}Опции: {SILVER}Възможност за избор между шест различни списъка.{}{YELLOW}#1 {GREEN}Български градове (кирилица) {SILVER}(256 имена){}{YELLOW}#2 {GREEN}Български градове (латиница) {SILVER}(256 имена){}{YELLOW}#3 {GREEN}Български села (кирилица) {SILVER}(4302 имена){}{YELLOW}#4 {GREEN}Български села (латиница) {SILVER}(4302 имена){}{YELLOW}#5 {GREEN}Български градове и села (кирилица) {SILVER}(4558 имена){}{YELLOW}#6 {GREEN}Български градове и села (латиница) {SILVER}(4558 имена){}{BLACK}Източник: {LTBROWN}http://www.nsi.bg/nrnm/ {SILVER}(актуален към 22.11.2016г.){}{BLACK}Транслитерация: {SILVER}в съответствие със "Закон за транслитерация" обнародван на 9 март 2009г.{}{}{BLACK}Автор: {SILVER} rddim{}{BLACK}Версия: {SILVER}1.0{}{BLACK}Лиценз: {SILVER}GPL v3
+STR_GRF_NAME			:Български градове и села v{VERSION}
+STR_GRF_DESCRIPTION		:{BLACK}Описание: {ORANGE}Български градове и села{SILVER}{}Съдържа имената на {WHITE}всички {SILVER}градове и села в България на кирилица и латиница.{}{BLACK}Опции: {SILVER}Възможност за избор между шест различни списъка.{}{YELLOW}#1 {GREEN}Български градове (кирилица) {SILVER}({NUM_TOWNS} имена){}{YELLOW}#2 {GREEN}Български градове (латиница) {SILVER}({NUM_TOWNS} имена){}{YELLOW}#3 {GREEN}Български села (кирилица) {SILVER}({NUM_VLGS} имена){}{YELLOW}#4 {GREEN}Български села (латиница) {SILVER}({NUM_VLGS} имена){}{YELLOW}#5 {GREEN}Български градове и села (кирилица) {SILVER}({NUM_ALL} имена){}{YELLOW}#6 {GREEN}Български градове и села (латиница) {SILVER}({NUM_ALL} имена){}{BLACK}Източник: {LTBROWN}http://www.nsi.bg/nrnm/ {SILVER}(актуален към {SRC_VALID}г.){}{BLACK}Транслитерация: {SILVER}в съответствие със "Закон за транслитерация" обнародван на 9 март 2009г.{}{}{BLACK}Автор: {SILVER} {AUTHORS}{}{BLACK}Версия: {SILVER}{VERSION}{}{BLACK}Лиценз: {SILVER}{LICENSE}
 
-STR_GRF_URL             :https://www.tt-forums.net/viewtopic.php?f=67&t=67161
+STR_GRF_URL             :{TTF_URL}
 
 TTD_MENU_NAME_TOWNS_CYR	:Български градове (кирилица)
 TTD_MENU_NAME_VLGS_CYR	:Български села (кирилица)
