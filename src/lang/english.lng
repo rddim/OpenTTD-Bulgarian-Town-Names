@@ -1,9 +1,9 @@
-﻿##grflangid 0x01
+##grflangid 0x01
 
-STR_GRF_NAME			:Bulgarian Town and Village Names v1.0
-STR_GRF_DESCRIPTION		:{BLACK}Description: {ORANGE}Bulgarian towns and villages{SILVER}{}Contain the names of {WHITE}all {SILVER}towns, cities and villages in Bulgaria in Cyrillic and Latin.{}{BLACK}Options: {SILVER}A choice between six different lists.{}{YELLOW}#1 {GREEN}Bulgarian towns (Cyrillic) {SILVER}(256 names){}{YELLOW}#2 {GREEN}Bulgarian towns (Latin) {SILVER}(256 names){}{YELLOW}#3 {GREEN}Bulgarian villages (Cyrillic) {SILVER}(4302 names){}{YELLOW}#4 {GREEN}Bulgarian villages (Latin) {SILVER}(4302 names){}{YELLOW}#5 {GREEN}Bulgarian towns and villages (Cyrillic) {SILVER}(4558 names){}{YELLOW}#6 {GREEN}Bulgarian towns and villages (Latin) {SILVER}(4558 names){}{BLACK}Source: {DKGREEN}http://www.nsi.bg/nrnm/ {SILVER}(valid as at 22th November, 2016){}{BLACK}Transliteration: {SILVER}In conformity with the "Transliteration Act" promulgated at 9th March, 2009{}{}{BLACK}Author: {SILVER} rddim{}{BLACK}Version: {SILVER}1.0{}{BLACK}License: {SILVER}GPL v3
+STR_GRF_NAME			:Bulgarian Town and Village Names v{VERSION}
+STR_GRF_DESCRIPTION		:{BLACK}Description: {ORANGE}Bulgarian towns and villages{SILVER}{}Contain the names of {WHITE}all {SILVER}towns, cities and villages in Bulgaria in Cyrillic and Latin.{}{BLACK}Options: {SILVER}A choice between six different lists.{}{YELLOW}#1 {GREEN}Bulgarian towns (Cyrillic) {SILVER}({NUM_TOWNS} names){}{YELLOW}#2 {GREEN}Bulgarian towns (Latin) {SILVER}({NUM_TOWNS} names){}{YELLOW}#3 {GREEN}Bulgarian villages (Cyrillic) {SILVER}({NUM_VLGS} names){}{YELLOW}#4 {GREEN}Bulgarian villages (Latin) {SILVER}({NUM_VLGS} names){}{YELLOW}#5 {GREEN}Bulgarian towns and villages (Cyrillic) {SILVER}({NUM_ALL} names){}{YELLOW}#6 {GREEN}Bulgarian towns and villages (Latin) {SILVER}({NUM_ALL} names){}{BLACK}Source: {DKGREEN}http://www.nsi.bg/nrnm/ {SILVER}(valid as at {SRC_VALID_EN}){}{BLACK}Transliteration: {SILVER}In conformity with the "Transliteration Act" promulgated at 9th March, 2009{}{}{BLACK}Author: {SILVER} {AUTHORS}{}{BLACK}Version: {SILVER}{VERSION}{}{BLACK}License: {SILVER}{LICENSE}
 
-STR_GRF_URL             :https://www.tt-forums.net/viewtopic.php?f=67&t=67161
+STR_GRF_URL             :{TTF_URL}
 
 TTD_MENU_NAME_TOWNS_LAT	:Bulgarian towns (Latin)
 TTD_MENU_NAME_VLGS_LAT	:Bulgarian villages (Latin)
