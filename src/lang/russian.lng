@@ -1,0 +1,14 @@
+##grflangid 0x07
+
+STR_GRF_NAME			:Имена городов и деревень Болгарии v{VERSION}
+STR_GRF_DESCRIPTION		:{BLACK}Описание: {ORANGE}Города и деревни Болгарии{SILVER}{}Содержит имена {WHITE}всех {SILVER}городов и деревень Болгарии на кирилице и на латинице.{}{BLACK}Опции: {SILVER}Возможность для выбора из шести разных списков.{}{YELLOW}#1 {GREEN}Города Болгарии (на кирилице) {SILVER}({NUM_TOWNS} имен){}{YELLOW}#2 {GREEN}Города Болгарии (на латинице) {SILVER}({NUM_TOWNS} имен){}{YELLOW}#3 {GREEN}Деревни Болгарии (на кирилице) {SILVER}({NUM_VLGS} имен){}{YELLOW}#4 {GREEN}Деревни Болгарии (на латинице) {SILVER}({NUM_VLGS} имен){}{YELLOW}#5 {GREEN}Города и деревни Болгарии (на кирилице) {SILVER}({NUM_ALL} имен){}{YELLOW}#6 {GREEN}Города и деревни Болгарии (на латинице) {SILVER}({NUM_ALL} имен){}{BLACK}Источник: {LTBROWN}http://www.nsi.bg/nrnm/ {SILVER}(актуализация к {SRC_VALID}году){}{BLACK}Транслитерация: {SILVER}в соответствии с "Законом о транслитерации", обнародованым  9 марта 2009года.{}{}{BLACK}Автор: {SILVER}{AUTHORS}{}{BLACK}Версия: {SILVER}{VERSION}{}{BLACK}Лиценз: {SILVER}{LICENSE}
+
+STR_GRF_URL             :{TTF_URL}
+
+TTD_MENU_NAME_TOWNS_CYR	:Города Болгарии (на кирилице)
+TTD_MENU_NAME_VLGS_CYR	:Деревни Болгарии (на кирилице)
+TTD_MENU_NAME_ALL_CYR	:Города и деревни Болгарии (на кирилице)
+
+TTD_MENU_NAME_TOWNS_LAT	:Города Болгарии (на латинице)
+TTD_MENU_NAME_VLGS_LAT	:Деревни Болгарии (на латинице)
+TTD_MENU_NAME_ALL_LAT	:Города и деревни Болгарии (на латинице)
